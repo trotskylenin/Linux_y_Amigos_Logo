@@ -26,6 +26,5 @@
 - [Blender 2.80 o posterior](https://blender.org/)
 - [Fuentes Ubuntu](Fuentes/ubuntu/)
 
-#### Creado por Marcelo Samsa
 ##### [CREATIVE COMMONS BY-NC-SA 2.5 AR](https://creativecommons.org/licenses/by-nc-sa/2.5/ar/)
 > Sientase libre de copiar, modificar y compartir este material siempre y cuando no sea con fines comerciales, mantenga la misma licencia y cite al autor original.
